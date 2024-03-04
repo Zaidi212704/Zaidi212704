@@ -1,5 +1,5 @@
 # Zaidi2704
-
+![logo](https://github.com/Zaidi212704/Zaidi2704/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Zaid Zaki</h1>
 <h3 align="center">An enthusiastic AI developer hailing from Pakistan, dedicated to pushing the boundaries of technology and shaping a brighter future. Fueled by a relentless passion for innovation, I strive to leverage AI to tackle complex challenges and foster meaningful advancements in our ever-evolving world.</h3>
 
